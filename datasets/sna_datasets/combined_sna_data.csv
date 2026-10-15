@@ -1,0 +1,442 @@
+source,source_label,source_ideology,target,target_label,target_ideology
+1,Bush vs. the Beltway,conservative,0,1000 Years for Revenge,neutral
+2,Charlie Wilson's War,conservative,0,1000 Years for Revenge,neutral
+3,Losing Bin Laden,conservative,0,1000 Years for Revenge,neutral
+3,Losing Bin Laden,conservative,1,Bush vs. the Beltway,conservative
+4,Sleeping With the Devil,neutral,0,1000 Years for Revenge,neutral
+4,Sleeping With the Devil,neutral,2,Charlie Wilson's War,conservative
+5,The Man Who Warned America,conservative,0,1000 Years for Revenge,neutral
+5,The Man Who Warned America,conservative,1,Bush vs. the Beltway,conservative
+5,The Man Who Warned America,conservative,2,Charlie Wilson's War,conservative
+5,The Man Who Warned America,conservative,3,Losing Bin Laden,conservative
+5,The Man Who Warned America,conservative,4,Sleeping With the Devil,neutral
+6,Why America Slept,neutral,0,1000 Years for Revenge,neutral
+6,Why America Slept,neutral,1,Bush vs. the Beltway,conservative
+6,Why America Slept,neutral,4,Sleeping With the Devil,neutral
+6,Why America Slept,neutral,5,The Man Who Warned America,conservative
+7,Ghost Wars,neutral,2,Charlie Wilson's War,conservative
+7,Ghost Wars,neutral,5,The Man Who Warned America,conservative
+7,Ghost Wars,neutral,6,Why America Slept,neutral
+8,A National Party No More,conservative,3,Losing Bin Laden,conservative
+9,Bush Country,conservative,3,Losing Bin Laden,conservative
+9,Bush Country,conservative,8,A National Party No More,conservative
+10,Dereliction of Duty,conservative,3,Losing Bin Laden,conservative
+10,Dereliction of Duty,conservative,6,Why America Slept,neutral
+10,Dereliction of Duty,conservative,8,A National Party No More,conservative
+11,Legacy,conservative,3,Losing Bin Laden,conservative
+11,Legacy,conservative,8,A National Party No More,conservative
+11,Legacy,conservative,9,Bush Country,conservative
+11,Legacy,conservative,10,Dereliction of Duty,conservative
+12,Off with Their Heads,conservative,3,Losing Bin Laden,conservative
+12,Off with Their Heads,conservative,6,Why America Slept,neutral
+12,Off with Their Heads,conservative,8,A National Party No More,conservative
+12,Off with Their Heads,conservative,9,Bush Country,conservative
+12,Off with Their Heads,conservative,10,Dereliction of Duty,conservative
+12,Off with Their Heads,conservative,11,Legacy,conservative
+13,Persecution,conservative,3,Losing Bin Laden,conservative
+13,Persecution,conservative,8,A National Party No More,conservative
+13,Persecution,conservative,11,Legacy,conservative
+13,Persecution,conservative,12,Off with Their Heads,conservative
+14,Rumsfeld's War,conservative,3,Losing Bin Laden,conservative
+14,Rumsfeld's War,conservative,8,A National Party No More,conservative
+14,Rumsfeld's War,conservative,9,Bush Country,conservative
+14,Rumsfeld's War,conservative,11,Legacy,conservative
+14,Rumsfeld's War,conservative,12,Off with Their Heads,conservative
+14,Rumsfeld's War,conservative,7,Ghost Wars,neutral
+15,Breakdown,conservative,3,Losing Bin Laden,conservative
+15,Breakdown,conservative,10,Dereliction of Duty,conservative
+15,Breakdown,conservative,12,Off with Their Heads,conservative
+16,Betrayal,conservative,3,Losing Bin Laden,conservative
+16,Betrayal,conservative,10,Dereliction of Duty,conservative
+16,Betrayal,conservative,15,Breakdown,conservative
+17,Shut Up and Sing,conservative,3,Losing Bin Laden,conservative
+17,Shut Up and Sing,conservative,11,Legacy,conservative
+17,Shut Up and Sing,conservative,12,Off with Their Heads,conservative
+17,Shut Up and Sing,conservative,13,Persecution,conservative
+18,Meant To Be,neutral,3,Losing Bin Laden,conservative
+18,Meant To Be,neutral,6,Why America Slept,neutral
+18,Meant To Be,neutral,12,Off with Their Heads,conservative
+19,The Right Man,conservative,3,Losing Bin Laden,conservative
+19,The Right Man,conservative,10,Dereliction of Duty,conservative
+20,Ten Minutes from Normal,conservative,3,Losing Bin Laden,conservative
+20,Ten Minutes from Normal,conservative,8,A National Party No More,conservative
+20,Ten Minutes from Normal,conservative,9,Bush Country,conservative
+20,Ten Minutes from Normal,conservative,11,Legacy,conservative
+21,Hillary's Scheme,conservative,3,Losing Bin Laden,conservative
+21,Hillary's Scheme,conservative,8,A National Party No More,conservative
+21,Hillary's Scheme,conservative,10,Dereliction of Duty,conservative
+21,Hillary's Scheme,conservative,11,Legacy,conservative
+22,The French Betrayal of America,conservative,3,Losing Bin Laden,conservative
+22,The French Betrayal of America,conservative,6,Why America Slept,neutral
+22,The French Betrayal of America,conservative,8,A National Party No More,conservative
+22,The French Betrayal of America,conservative,11,Legacy,conservative
+23,Tales from the Left Coast,conservative,3,Losing Bin Laden,conservative
+23,Tales from the Left Coast,conservative,8,A National Party No More,conservative
+23,Tales from the Left Coast,conservative,12,Off with Their Heads,conservative
+23,Tales from the Left Coast,conservative,21,Hillary's Scheme,conservative
+24,Hating America,conservative,3,Losing Bin Laden,conservative
+24,Hating America,conservative,8,A National Party No More,conservative
+24,Hating America,conservative,9,Bush Country,conservative
+24,Hating America,conservative,12,Off with Their Heads,conservative
+24,Hating America,conservative,20,Ten Minutes from Normal,conservative
+25,The Third Terrorist,conservative,3,Losing Bin Laden,conservative
+25,The Third Terrorist,conservative,6,Why America Slept,neutral
+25,The Third Terrorist,conservative,14,Rumsfeld's War,conservative
+25,The Third Terrorist,conservative,22,The French Betrayal of America,conservative
+26,Endgame,conservative,3,Losing Bin Laden,conservative
+26,Endgame,conservative,8,A National Party No More,conservative
+26,Endgame,conservative,11,Legacy,conservative
+26,Endgame,conservative,14,Rumsfeld's War,conservative
+26,Endgame,conservative,24,Hating America,conservative
+27,Spin Sisters,conservative,3,Losing Bin Laden,conservative
+27,Spin Sisters,conservative,8,A National Party No More,conservative
+27,Spin Sisters,conservative,9,Bush Country,conservative
+27,Spin Sisters,conservative,11,Legacy,conservative
+27,Spin Sisters,conservative,23,Tales from the Left Coast,conservative
+28,All the Shah's Men,neutral,4,Sleeping With the Devil,neutral
+29,Dangerous Dimplomacy,conservative,4,Sleeping With the Devil,neutral
+29,Dangerous Dimplomacy,conservative,6,Why America Slept,neutral
+29,Dangerous Dimplomacy,conservative,11,Legacy,conservative
+29,Dangerous Dimplomacy,conservative,13,Persecution,conservative
+30,The Price of Loyalty,liberal,4,Sleeping With the Devil,neutral
+30,The Price of Loyalty,liberal,7,Ghost Wars,neutral
+31,"House of Bush, House of Saud",liberal,4,Sleeping With the Devil,neutral
+31,"House of Bush, House of Saud",liberal,30,The Price of Loyalty,liberal
+32,The Death of Right and Wrong,conservative,8,A National Party No More,conservative
+32,The Death of Right and Wrong,conservative,12,Off with Their Heads,conservative
+32,The Death of Right and Wrong,conservative,13,Persecution,conservative
+32,The Death of Right and Wrong,conservative,23,Tales from the Left Coast,conservative
+33,Useful Idiots,conservative,32,The Death of Right and Wrong,conservative
+33,Useful Idiots,conservative,8,A National Party No More,conservative
+33,Useful Idiots,conservative,10,Dereliction of Duty,conservative
+33,Useful Idiots,conservative,12,Off with Their Heads,conservative
+33,Useful Idiots,conservative,23,Tales from the Left Coast,conservative
+35,Let Freedom Ring,conservative,34,The O'Reilly Factor,conservative
+35,Let Freedom Ring,conservative,8,A National Party No More,conservative
+35,Let Freedom Ring,conservative,10,Dereliction of Duty,conservative
+36,Those Who Trespass,conservative,34,The O'Reilly Factor,conservative
+36,Those Who Trespass,conservative,35,Let Freedom Ring,conservative
+36,Those Who Trespass,conservative,12,Off with Their Heads,conservative
+37,Bias,conservative,34,The O'Reilly Factor,conservative
+37,Bias,conservative,8,A National Party No More,conservative
+37,Bias,conservative,10,Dereliction of Duty,conservative
+37,Bias,conservative,35,Let Freedom Ring,conservative
+37,Bias,conservative,33,Useful Idiots,conservative
+38,Slander,conservative,34,The O'Reilly Factor,conservative
+38,Slander,conservative,10,Dereliction of Duty,conservative
+38,Slander,conservative,35,Let Freedom Ring,conservative
+38,Slander,conservative,12,Off with Their Heads,conservative
+38,Slander,conservative,37,Bias,conservative
+38,Slander,conservative,33,Useful Idiots,conservative
+39,The Savage Nation,conservative,34,The O'Reilly Factor,conservative
+39,The Savage Nation,conservative,10,Dereliction of Duty,conservative
+39,The Savage Nation,conservative,35,Let Freedom Ring,conservative
+39,The Savage Nation,conservative,12,Off with Their Heads,conservative
+39,The Savage Nation,conservative,38,Slander,conservative
+39,The Savage Nation,conservative,33,Useful Idiots,conservative
+40,Deliver Us from Evil,conservative,8,A National Party No More,conservative
+40,Deliver Us from Evil,conservative,35,Let Freedom Ring,conservative
+40,Deliver Us from Evil,conservative,12,Off with Their Heads,conservative
+40,Deliver Us from Evil,conservative,13,Persecution,conservative
+40,Deliver Us from Evil,conservative,20,Ten Minutes from Normal,conservative
+40,Deliver Us from Evil,conservative,22,The French Betrayal of America,conservative
+40,Deliver Us from Evil,conservative,39,The Savage Nation,conservative
+40,Deliver Us from Evil,conservative,24,Hating America,conservative
+40,Deliver Us from Evil,conservative,25,The Third Terrorist,conservative
+40,Deliver Us from Evil,conservative,26,Endgame,conservative
+40,Deliver Us from Evil,conservative,27,Spin Sisters,conservative
+41,Give Me a Break,conservative,8,A National Party No More,conservative
+41,Give Me a Break,conservative,9,Bush Country,conservative
+41,Give Me a Break,conservative,40,Deliver Us from Evil,conservative
+41,Give Me a Break,conservative,12,Off with Their Heads,conservative
+41,Give Me a Break,conservative,36,Those Who Trespass,conservative
+41,Give Me a Break,conservative,27,Spin Sisters,conservative
+42,The Enemy Within,conservative,8,A National Party No More,conservative
+42,The Enemy Within,conservative,40,Deliver Us from Evil,conservative
+42,The Enemy Within,conservative,13,Persecution,conservative
+42,The Enemy Within,conservative,39,The Savage Nation,conservative
+43,The Real America,conservative,8,A National Party No More,conservative
+43,The Real America,conservative,35,Let Freedom Ring,conservative
+43,The Real America,conservative,13,Persecution,conservative
+43,The Real America,conservative,42,The Enemy Within,conservative
+44,Who's Looking Out for You?,conservative,8,A National Party No More,conservative
+44,Who's Looking Out for You?,conservative,40,Deliver Us from Evil,conservative
+44,Who's Looking Out for You?,conservative,35,Let Freedom Ring,conservative
+44,Who's Looking Out for You?,conservative,12,Off with Their Heads,conservative
+44,Who's Looking Out for You?,conservative,13,Persecution,conservative
+45,The Official Handbook Vast Right Wing Conspiracy,conservative,8,A National Party No More,conservative
+45,The Official Handbook Vast Right Wing Conspiracy,conservative,9,Bush Country,conservative
+45,The Official Handbook Vast Right Wing Conspiracy,conservative,40,Deliver Us from Evil,conservative
+45,The Official Handbook Vast Right Wing Conspiracy,conservative,11,Legacy,conservative
+45,The Official Handbook Vast Right Wing Conspiracy,conservative,26,Endgame,conservative
+46,Power Plays,neutral,8,A National Party No More,conservative
+46,Power Plays,neutral,12,Off with Their Heads,conservative
+47,Arrogance,conservative,9,Bush Country,conservative
+47,Arrogance,conservative,40,Deliver Us from Evil,conservative
+47,Arrogance,conservative,41,Give Me a Break,conservative
+47,Arrogance,conservative,11,Legacy,conservative
+47,Arrogance,conservative,12,Off with Their Heads,conservative
+47,Arrogance,conservative,13,Persecution,conservative
+47,Arrogance,conservative,42,The Enemy Within,conservative
+47,Arrogance,conservative,36,Those Who Trespass,conservative
+47,Arrogance,conservative,37,Bias,conservative
+47,Arrogance,conservative,17,Shut Up and Sing,conservative
+47,Arrogance,conservative,33,Useful Idiots,conservative
+47,Arrogance,conservative,45,The Official Handbook Vast Right Wing Conspiracy,conservative
+47,Arrogance,conservative,46,Power Plays,neutral
+47,Arrogance,conservative,23,Tales from the Left Coast,conservative
+47,Arrogance,conservative,24,Hating America,conservative
+47,Arrogance,conservative,26,Endgame,conservative
+47,Arrogance,conservative,27,Spin Sisters,conservative
+48,The Perfect Wife,neutral,9,Bush Country,conservative
+48,The Perfect Wife,neutral,20,Ten Minutes from Normal,conservative
+49,The Bushes,conservative,9,Bush Country,conservative
+49,The Bushes,conservative,20,Ten Minutes from Normal,conservative
+49,The Bushes,conservative,31,"House of Bush, House of Saud",liberal
+49,The Bushes,conservative,48,The Perfect Wife,neutral
+50,Things Worth Fighting For,conservative,9,Bush Country,conservative
+50,Things Worth Fighting For,conservative,11,Legacy,conservative
+51,"Surprise, Security, the American Experience",neutral,9,Bush Country,conservative
+52,Allies,conservative,9,Bush Country,conservative
+52,Allies,conservative,22,The French Betrayal of America,conservative
+52,Allies,conservative,51,"Surprise, Security, the American Experience",neutral
+53,Why Courage Matters,conservative,40,Deliver Us from Evil,conservative
+53,Why Courage Matters,conservative,20,Ten Minutes from Normal,conservative
+53,Why Courage Matters,conservative,24,Hating America,conservative
+53,Why Courage Matters,conservative,26,Endgame,conservative
+54,Hollywood Interrupted,conservative,40,Deliver Us from Evil,conservative
+54,Hollywood Interrupted,conservative,41,Give Me a Break,conservative
+54,Hollywood Interrupted,conservative,12,Off with Their Heads,conservative
+54,Hollywood Interrupted,conservative,47,Arrogance,conservative
+54,Hollywood Interrupted,conservative,23,Tales from the Left Coast,conservative
+54,Hollywood Interrupted,conservative,27,Spin Sisters,conservative
+55,Fighting Back,conservative,10,Dereliction of Duty,conservative
+55,Fighting Back,conservative,12,Off with Their Heads,conservative
+55,Fighting Back,conservative,15,Breakdown,conservative
+55,Fighting Back,conservative,19,The Right Man,conservative
+56,We Will Prevail,conservative,11,Legacy,conservative
+56,We Will Prevail,conservative,19,The Right Man,conservative
+56,We Will Prevail,conservative,43,The Real America,conservative
+57,The Faith of George W Bush,conservative,13,Persecution,conservative
+57,The Faith of George W Bush,conservative,56,We Will Prevail,conservative
+57,The Faith of George W Bush,conservative,20,Ten Minutes from Normal,conservative
+57,The Faith of George W Bush,conservative,48,The Perfect Wife,neutral
+57,The Faith of George W Bush,conservative,49,The Bushes,conservative
+58,Rise of the Vulcans,conservative,14,Rumsfeld's War,conservative
+58,Rise of the Vulcans,conservative,7,Ghost Wars,neutral
+58,Rise of the Vulcans,conservative,30,The Price of Loyalty,liberal
+58,Rise of the Vulcans,conservative,49,The Bushes,conservative
+58,Rise of the Vulcans,conservative,50,Things Worth Fighting For,conservative
+58,Rise of the Vulcans,conservative,51,"Surprise, Security, the American Experience",neutral
+58,Rise of the Vulcans,conservative,52,Allies,conservative
+60,Stupid White Men,liberal,59,Downsize This!,liberal
+61,Rush Limbaugh Is a Big Fat Idiot,liberal,59,Downsize This!,liberal
+62,The Best Democracy Money Can Buy,liberal,59,Downsize This!,liberal
+62,The Best Democracy Money Can Buy,liberal,60,Stupid White Men,liberal
+63,The Culture of Fear,liberal,59,Downsize This!,liberal
+63,The Culture of Fear,liberal,60,Stupid White Men,liberal
+63,The Culture of Fear,liberal,62,The Best Democracy Money Can Buy,liberal
+64,America Unbound,liberal,58,Rise of the Vulcans,conservative
+64,America Unbound,liberal,51,"Surprise, Security, the American Experience",neutral
+64,America Unbound,liberal,52,Allies,conservative
+65,The Choice,liberal,64,America Unbound,liberal
+65,The Choice,liberal,58,Rise of the Vulcans,conservative
+65,The Choice,liberal,51,"Surprise, Security, the American Experience",neutral
+66,The Great Unraveling,liberal,64,America Unbound,liberal
+66,The Great Unraveling,liberal,28,All the Shah's Men,neutral
+66,The Great Unraveling,liberal,30,The Price of Loyalty,liberal
+67,Rogue Nation,liberal,64,America Unbound,liberal
+67,Rogue Nation,liberal,65,The Choice,liberal
+67,Rogue Nation,liberal,66,The Great Unraveling,liberal
+67,Rogue Nation,liberal,30,The Price of Loyalty,liberal
+68,Soft Power,liberal,64,America Unbound,liberal
+68,Soft Power,liberal,58,Rise of the Vulcans,conservative
+68,Soft Power,liberal,65,The Choice,liberal
+69,Colossus,neutral,64,America Unbound,liberal
+69,Colossus,neutral,58,Rise of the Vulcans,conservative
+69,Colossus,neutral,65,The Choice,liberal
+69,Colossus,neutral,51,"Surprise, Security, the American Experience",neutral
+70,The Sorrows of Empire,liberal,64,America Unbound,liberal
+70,The Sorrows of Empire,liberal,66,The Great Unraveling,liberal
+70,The Sorrows of Empire,liberal,30,The Price of Loyalty,liberal
+71,Against All Enemies,liberal,7,Ghost Wars,neutral
+71,Against All Enemies,liberal,68,Soft Power,liberal
+71,Against All Enemies,liberal,70,The Sorrows of Empire,liberal
+72,American Dynasty,liberal,71,Against All Enemies,liberal
+72,American Dynasty,liberal,28,All the Shah's Men,neutral
+72,American Dynasty,liberal,66,The Great Unraveling,liberal
+72,American Dynasty,liberal,49,The Bushes,conservative
+72,American Dynasty,liberal,70,The Sorrows of Empire,liberal
+73,Big Lies,liberal,71,Against All Enemies,liberal
+73,Big Lies,liberal,72,American Dynasty,liberal
+73,Big Lies,liberal,66,The Great Unraveling,liberal
+73,Big Lies,liberal,30,The Price of Loyalty,liberal
+73,Big Lies,liberal,31,"House of Bush, House of Saud",liberal
+74,The Lies of George W. Bush,liberal,71,Against All Enemies,liberal
+74,The Lies of George W. Bush,liberal,72,American Dynasty,liberal
+74,The Lies of George W. Bush,liberal,73,Big Lies,liberal
+74,The Lies of George W. Bush,liberal,66,The Great Unraveling,liberal
+74,The Lies of George W. Bush,liberal,30,The Price of Loyalty,liberal
+74,The Lies of George W. Bush,liberal,31,"House of Bush, House of Saud",liberal
+75,Worse Than Watergate,liberal,71,Against All Enemies,liberal
+75,Worse Than Watergate,liberal,72,American Dynasty,liberal
+75,Worse Than Watergate,liberal,73,Big Lies,liberal
+75,Worse Than Watergate,liberal,74,The Lies of George W. Bush,liberal
+75,Worse Than Watergate,liberal,30,The Price of Loyalty,liberal
+75,Worse Than Watergate,liberal,31,"House of Bush, House of Saud",liberal
+75,Worse Than Watergate,liberal,70,The Sorrows of Empire,liberal
+76,Plan of Attack,neutral,71,Against All Enemies,liberal
+76,Plan of Attack,neutral,72,American Dynasty,liberal
+76,Plan of Attack,neutral,75,Worse Than Watergate,liberal
+76,Plan of Attack,neutral,66,The Great Unraveling,liberal
+76,Plan of Attack,neutral,30,The Price of Loyalty,liberal
+76,Plan of Attack,neutral,31,"House of Bush, House of Saud",liberal
+76,Plan of Attack,neutral,49,The Bushes,conservative
+76,Plan of Attack,neutral,53,Why Courage Matters,conservative
+77,Bush at War,conservative,71,Against All Enemies,liberal
+77,Bush at War,conservative,75,Worse Than Watergate,liberal
+77,Bush at War,conservative,58,Rise of the Vulcans,conservative
+77,Bush at War,conservative,30,The Price of Loyalty,liberal
+77,Bush at War,conservative,19,The Right Man,conservative
+77,Bush at War,conservative,31,"House of Bush, House of Saud",liberal
+77,Bush at War,conservative,76,Plan of Attack,neutral
+78,The New Pearl Harbor,liberal,71,Against All Enemies,liberal
+78,The New Pearl Harbor,liberal,72,American Dynasty,liberal
+78,The New Pearl Harbor,liberal,74,The Lies of George W. Bush,liberal
+78,The New Pearl Harbor,liberal,75,Worse Than Watergate,liberal
+78,The New Pearl Harbor,liberal,31,"House of Bush, House of Saud",liberal
+79,Bushwomen,liberal,71,Against All Enemies,liberal
+79,Bushwomen,liberal,72,American Dynasty,liberal
+79,Bushwomen,liberal,74,The Lies of George W. Bush,liberal
+79,Bushwomen,liberal,75,Worse Than Watergate,liberal
+79,Bushwomen,liberal,30,The Price of Loyalty,liberal
+80,The Bubble of American Supremacy,liberal,71,Against All Enemies,liberal
+80,The Bubble of American Supremacy,liberal,72,American Dynasty,liberal
+80,The Bubble of American Supremacy,liberal,66,The Great Unraveling,liberal
+80,The Bubble of American Supremacy,liberal,30,The Price of Loyalty,liberal
+81,Living History,liberal,71,Against All Enemies,liberal
+82,The Politics of Truth,liberal,71,Against All Enemies,liberal
+82,The Politics of Truth,liberal,72,American Dynasty,liberal
+82,The Politics of Truth,liberal,73,Big Lies,liberal
+82,The Politics of Truth,liberal,74,The Lies of George W. Bush,liberal
+82,The Politics of Truth,liberal,75,Worse Than Watergate,liberal
+82,The Politics of Truth,liberal,30,The Price of Loyalty,liberal
+82,The Politics of Truth,liberal,31,"House of Bush, House of Saud",liberal
+82,The Politics of Truth,liberal,76,Plan of Attack,neutral
+83,Fanatics and Fools,liberal,71,Against All Enemies,liberal
+83,Fanatics and Fools,liberal,73,Big Lies,liberal
+83,Fanatics and Fools,liberal,75,Worse Than Watergate,liberal
+83,Fanatics and Fools,liberal,30,The Price of Loyalty,liberal
+83,Fanatics and Fools,liberal,76,Plan of Attack,neutral
+84,Bushwhacked,liberal,72,American Dynasty,liberal
+84,Bushwhacked,liberal,74,The Lies of George W. Bush,liberal
+84,Bushwhacked,liberal,75,Worse Than Watergate,liberal
+84,Bushwhacked,liberal,66,The Great Unraveling,liberal
+84,Bushwhacked,liberal,73,Big Lies,liberal
+84,Bushwhacked,liberal,60,Stupid White Men,liberal
+84,Bushwhacked,liberal,30,The Price of Loyalty,liberal
+84,Bushwhacked,liberal,62,The Best Democracy Money Can Buy,liberal
+84,Bushwhacked,liberal,76,Plan of Attack,neutral
+84,Bushwhacked,liberal,79,Bushwomen,liberal
+84,Bushwhacked,liberal,81,Living History,liberal
+84,Bushwhacked,liberal,82,The Politics of Truth,liberal
+84,Bushwhacked,liberal,83,Fanatics and Fools,liberal
+85,Disarming Iraq,liberal,72,American Dynasty,liberal
+85,Disarming Iraq,liberal,7,Ghost Wars,neutral
+85,Disarming Iraq,liberal,58,Rise of the Vulcans,conservative
+85,Disarming Iraq,liberal,65,The Choice,liberal
+85,Disarming Iraq,liberal,66,The Great Unraveling,liberal
+86,Lies and the Lying Liars Who Tell Them,liberal,72,American Dynasty,liberal
+86,Lies and the Lying Liars Who Tell Them,liberal,73,Big Lies,liberal
+86,Lies and the Lying Liars Who Tell Them,liberal,66,The Great Unraveling,liberal
+86,Lies and the Lying Liars Who Tell Them,liberal,84,Bushwhacked,liberal
+86,Lies and the Lying Liars Who Tell Them,liberal,60,Stupid White Men,liberal
+86,Lies and the Lying Liars Who Tell Them,liberal,30,The Price of Loyalty,liberal
+86,Lies and the Lying Liars Who Tell Them,liberal,61,Rush Limbaugh Is a Big Fat Idiot,liberal
+86,Lies and the Lying Liars Who Tell Them,liberal,76,Plan of Attack,neutral
+86,Lies and the Lying Liars Who Tell Them,liberal,81,Living History,liberal
+87,MoveOn's 50 Ways to Love Your Country,liberal,72,American Dynasty,liberal
+87,MoveOn's 50 Ways to Love Your Country,liberal,74,The Lies of George W. Bush,liberal
+87,MoveOn's 50 Ways to Love Your Country,liberal,84,Bushwhacked,liberal
+87,MoveOn's 50 Ways to Love Your Country,liberal,83,Fanatics and Fools,liberal
+88,The Buying of the President 2004,liberal,72,American Dynasty,liberal
+88,The Buying of the President 2004,liberal,74,The Lies of George W. Bush,liberal
+88,The Buying of the President 2004,liberal,66,The Great Unraveling,liberal
+88,The Buying of the President 2004,liberal,84,Bushwhacked,liberal
+89,Perfectly Legal,liberal,72,American Dynasty,liberal
+89,Perfectly Legal,liberal,73,Big Lies,liberal
+89,Perfectly Legal,liberal,66,The Great Unraveling,liberal
+89,Perfectly Legal,liberal,84,Bushwhacked,liberal
+89,Perfectly Legal,liberal,86,Lies and the Lying Liars Who Tell Them,liberal
+89,Perfectly Legal,liberal,88,The Buying of the President 2004,liberal
+90,Hegemony or Survival,liberal,72,American Dynasty,liberal
+90,Hegemony or Survival,liberal,66,The Great Unraveling,liberal
+90,Hegemony or Survival,liberal,70,The Sorrows of Empire,liberal
+91,The Exception to the Rulers,liberal,72,American Dynasty,liberal
+91,The Exception to the Rulers,liberal,74,The Lies of George W. Bush,liberal
+91,The Exception to the Rulers,liberal,75,Worse Than Watergate,liberal
+91,The Exception to the Rulers,liberal,31,"House of Bush, House of Saud",liberal
+91,The Exception to the Rulers,liberal,90,Hegemony or Survival,liberal
+91,The Exception to the Rulers,liberal,79,Bushwomen,liberal
+92,Freethinkers,liberal,72,American Dynasty,liberal
+92,Freethinkers,liberal,73,Big Lies,liberal
+92,Freethinkers,liberal,75,Worse Than Watergate,liberal
+93,Had Enough?,liberal,73,Big Lies,liberal
+93,Had Enough?,liberal,66,The Great Unraveling,liberal
+93,Had Enough?,liberal,86,Lies and the Lying Liars Who Tell Them,liberal
+93,Had Enough?,liberal,30,The Price of Loyalty,liberal
+94,"It's Still the Economy, Stupid!",liberal,73,Big Lies,liberal
+94,"It's Still the Economy, Stupid!",liberal,84,Bushwhacked,liberal
+94,"It's Still the Economy, Stupid!",liberal,93,Had Enough?,liberal
+95,We're Right They're Wrong,liberal,73,Big Lies,liberal
+95,We're Right They're Wrong,liberal,94,"It's Still the Economy, Stupid!",liberal
+95,We're Right They're Wrong,liberal,61,Rush Limbaugh Is a Big Fat Idiot,liberal
+96,What Liberal Media?,liberal,73,Big Lies,liberal
+96,What Liberal Media?,liberal,66,The Great Unraveling,liberal
+96,What Liberal Media?,liberal,84,Bushwhacked,liberal
+96,What Liberal Media?,liberal,94,"It's Still the Economy, Stupid!",liberal
+97,The Clinton Wars,liberal,73,Big Lies,liberal
+97,The Clinton Wars,liberal,66,The Great Unraveling,liberal
+97,The Clinton Wars,liberal,84,Bushwhacked,liberal
+97,The Clinton Wars,liberal,86,Lies and the Lying Liars Who Tell Them,liberal
+97,The Clinton Wars,liberal,96,What Liberal Media?,liberal
+97,The Clinton Wars,liberal,81,Living History,liberal
+98,Weapons of Mass Deception,liberal,73,Big Lies,liberal
+98,Weapons of Mass Deception,liberal,74,The Lies of George W. Bush,liberal
+98,Weapons of Mass Deception,liberal,87,MoveOn's 50 Ways to Love Your Country,liberal
+98,Weapons of Mass Deception,liberal,91,The Exception to the Rulers,liberal
+99,"Dude, Where's My Country?",liberal,73,Big Lies,liberal
+99,"Dude, Where's My Country?",liberal,74,The Lies of George W. Bush,liberal
+99,"Dude, Where's My Country?",liberal,66,The Great Unraveling,liberal
+99,"Dude, Where's My Country?",liberal,84,Bushwhacked,liberal
+99,"Dude, Where's My Country?",liberal,93,Had Enough?,liberal
+99,"Dude, Where's My Country?",liberal,60,Stupid White Men,liberal
+99,"Dude, Where's My Country?",liberal,59,Downsize This!,liberal
+99,"Dude, Where's My Country?",liberal,30,The Price of Loyalty,liberal
+99,"Dude, Where's My Country?",liberal,62,The Best Democracy Money Can Buy,liberal
+99,"Dude, Where's My Country?",liberal,63,The Culture of Fear,liberal
+99,"Dude, Where's My Country?",liberal,90,Hegemony or Survival,liberal
+100,Thieves in High Places,liberal,73,Big Lies,liberal
+100,Thieves in High Places,liberal,66,The Great Unraveling,liberal
+100,Thieves in High Places,liberal,84,Bushwhacked,liberal
+100,Thieves in High Places,liberal,86,Lies and the Lying Liars Who Tell Them,liberal
+100,Thieves in High Places,liberal,96,What Liberal Media?,liberal
+100,Thieves in High Places,liberal,98,Weapons of Mass Deception,liberal
+100,Thieves in High Places,liberal,99,"Dude, Where's My Country?",liberal
+100,Thieves in High Places,liberal,62,The Best Democracy Money Can Buy,liberal
+100,Thieves in High Places,liberal,79,Bushwomen,liberal
+100,Thieves in High Places,liberal,91,The Exception to the Rulers,liberal
+100,Thieves in High Places,liberal,83,Fanatics and Fools,liberal
+101,Shrub,liberal,84,Bushwhacked,liberal
+101,Shrub,liberal,86,Lies and the Lying Liars Who Tell Them,liberal
+101,Shrub,liberal,94,"It's Still the Economy, Stupid!",liberal
+101,Shrub,liberal,100,Thieves in High Places,liberal
+101,Shrub,liberal,61,Rush Limbaugh Is a Big Fat Idiot,liberal
+102,Buck Up Suck Up,liberal,93,Had Enough?,liberal
+102,Buck Up Suck Up,liberal,94,"It's Still the Economy, Stupid!",liberal
+102,Buck Up Suck Up,liberal,95,We're Right They're Wrong,liberal
+102,Buck Up Suck Up,liberal,46,Power Plays,neutral
+103,The Future of Freedom,neutral,67,Rogue Nation,liberal
+104,Empire,neutral,67,Rogue Nation,liberal
+104,Empire,neutral,69,Colossus,neutral
+104,Empire,neutral,103,The Future of Freedom,neutral
